@@ -17,6 +17,13 @@ Esta applicación simula ser un gestor de artículos para un blog, en donde pued
 artículos de la base de datos. Cada vez que crea un nuevo artículo, el **backend** enviará un mensaje a través de
 **ActionCable** que se podrá visualizar en la consola de tu navegador.
 
+![Screen Shot 2021-11-03 at 11 58 17](https://user-images.githubusercontent.com/20566227/140378114-9ff706c0-cd4e-4203-9ad4-ed2ac1ff0551.png)
+> Gestor de artículos del proyecto
+
+![Screen Shot 2021-11-03 at 11 58 33](https://user-images.githubusercontent.com/20566227/140378190-73e391ba-1285-461e-8417-00a057b83c7a.png)
+> Mensaje que se recibe desde ActionCable cuando se crea un nuevo artículo
+
+
 ## Correr la aplicación en local
 A continuación enumeramos los pasos que debes seguir para poder correr este proyecto en tu computadora:
 **IMPORTANTE: Debes cumplir con los requerimientos minimos listados arriba antes de continuar**
